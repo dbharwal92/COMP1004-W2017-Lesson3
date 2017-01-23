@@ -12,6 +12,9 @@ namespace COMP1004_W2017_Lesson3
 {
     public partial class CalculatorForm : Form
     {
+        /// <summary>
+        /// Default constructor
+        /// </summary>
         public CalculatorForm()
         {
             InitializeComponent();
