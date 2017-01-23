@@ -65,6 +65,10 @@ namespace COMP1004_W2017_Lesson3
 
         }
 
+        private void CalculatorForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }
